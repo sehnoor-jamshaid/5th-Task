@@ -1,0 +1,33 @@
+.layer form input[type="text"]
+{width:90%;
+height:20px;}
+
+body
+{
+background-image:url("1.jpg")  ;
+}
+*
+{margin:0;
+padding:0;}
+html,body
+{height:100px;}
+div
+{
+background-color:rgba(196,255,136,0.9);
+width:50%;
+height:655px;
+border:green solid 1px;
+margin-top:0px;
+opacity:0.9;
+margin-left:340px;
+position:relative;}
+.layer
+{width:98%;
+position:absolute;
+left:-330px;
+border:rgba(228,255,202,0.1) 2px solid;
+margin-top:1px;
+height:650px;
+}
+form
+{margin-left:7px;}
